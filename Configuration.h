@@ -100,4 +100,5 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 
 #define MES_SIGNON  "\rWindows MMBasic Version " VERSION "\r\n"\
 					"Copyright " YEAR " Geoff Graham\r\n"\
-					"Copyright " YEAR2 " Peter Mather\r\n\r\n"
+					"Copyright " YEAR2 " Peter Mather\r\n"\
+					"** @thwill development version **\r\n\r\n"
